@@ -1,2 +1,0 @@
-# LittleJiner
-learn and work
